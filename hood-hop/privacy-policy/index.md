@@ -4,7 +4,7 @@ title: Hood Hop Privacy Policy
 
 # Hood Hop Privacy Policy
 
-**Effective date:** 27 October 2026
+**Effective date:** 6 November 2026
 
 This policy explains what information the Android game **Hood Hop** ("the game"), made
 by **Wee Hop Games** ("we", "us"), handles and why. If you have questions, contact us at
@@ -37,7 +37,7 @@ fraud, the Google Mobile Ads SDK in the game automatically collects:
 - **Device identifiers**: your device's advertising ID and app set ID.
 - **IP address**, which may be used to estimate your general location.
 - **Product interactions**: for example app launches, taps and ad views.
-- **Diagnostic information**: for example app performance and crash data related to ads.
+- **Diagnostic information**: app performance information, such as launch time and responsiveness.
 
 This data is sent to Google, encrypted in transit. Google's use of it is covered by
 [Google's Privacy Policy](https://policies.google.com/privacy) and
